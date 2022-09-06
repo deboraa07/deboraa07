@@ -1,12 +1,12 @@
-# Hi, eu sou Débora Camilly 👋
+# Olá, eu sou Débora Camilly 👋
 
 ## Sobre mim
 📚  Graduanda em Análise e Desenvolvimento de Sistemas (ADS) no IFPB 
 
-🌎 Estudante de Língua Inglesa
+🌎 Estudante de Línguas Estrangeiras
 
 ## Áreas de interesse
-💻 💰:nerd_face: Scrum, marketing digital e Inglês
+💻 💰:nerd_face: Scrum, front end e línguas estrangeiras
 
                                                > "Computing is not about computers anymore. It is about living."
 <!--
