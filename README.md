@@ -6,7 +6,7 @@
 🌎 Estudante de Línguas Estrangeiras
 
 ## Áreas de interesse
-💻 💰:nerd_face: Scrum, front end e línguas estrangeiras
+💻 💰 Scrum, front end e línguas estrangeiras
 
                                                > "Computing is not about computers anymore. It is about living."
 <!--
