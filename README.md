@@ -1,7 +1,7 @@
 # Olá, eu sou Débora Camilly 👋
 
 ## Sobre mim
-📚  Graduanda em Análise e Desenvolvimento de Sistemas (ADS) no IFPB 
+📚  Graduada em Análise e Desenvolvimento de Sistemas (ADS) no IFPB 
 
 🌎 Estudante de Línguas Estrangeiras
 
